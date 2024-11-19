@@ -52,13 +52,13 @@ How diverse are your customers?
 
 | Name of term          | Meaning                         | Formula                           |  
 | --------------------- | ------------------------------  | ----------------------------------|  
-| Revenue               | Total income excluding expenses |$${No.UnitsSold × CostPerUnit}$$   |  
-| Gross Profit          | Money made before taxes         | $$ {Revenue - AllCosts}$$         |  
+| Revenue               | Total income excluding expenses |$${No.UnitsSold}$$ $${ × }$$ $${CostPerUnit}$$   |  
+| Gross Profit          | Money made before taxes         | $${Revenue - AllCosts} $$         |  
 | Net Profit            | Money made after taxes          | $${Revenue - AllCosts - Tax} $$   |  
-| Gross Profit Margin   | Indication of company efficiency| $$ \frac{Revenue - ProductCost}{Revenue} $$|  
-| Net Profit Margin     | Per unit profitability          | $$ \frac{NetProfit}{Revenue} $$   |  
-| EBITDA|   Overall profitability | $$ {Profit + Tax + Loan Interest + Depreciation/Amortization }$$|
-| EBITDA Margin | Indication of Operational efficiency |   $$ \frac{EBITDA}{Revenue} $$  
+| Gross Profit Margin   | Indication of company efficiency| $$\frac{Revenue - ProductCost}{Revenue} $$|  
+| Net Profit Margin     | Per unit profitability          | $$\frac{NetProfit}{Revenue} $$   |  
+| EBITDA|   Overall profitability | $${Profit + Tax + Loan Interest + Depreciation/Amortization }$$|
+| EBITDA Margin | Indication of Operational efficiency |   $$\frac{EBITDA}{Revenue} $$  
 | Top-Line | Revenue | $${-}$$ | 
 | Bottom-Line | Net Income or Profit | $${-}$$ | 
 
