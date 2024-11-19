@@ -50,17 +50,20 @@ How diverse are your customers?
 
 ## Common terms
 
+
+
 | Name of term          | Meaning                         | Formula                           |  
 | --------------------- | ------------------------------  | ----------------------------------|  
-| Revenue               | Total income excluding expenses |$${No.UnitsSold}$$ $${ × }$$ $${CostPerUnit}$$   |  
-| Gross Profit          | Money made before taxes         | $${Revenue - AllCosts} $$         |  
-| Net Profit            | Money made after taxes          | $${Revenue - AllCosts - Tax} $$   |  
-| Gross Profit Margin   | Indication of company efficiency| $$\frac{Revenue - ProductCost}{Revenue} $$|  
-| Net Profit Margin     | Per unit profitability          | $$\frac{NetProfit}{Revenue} $$   |  
-| EBITDA|   Overall profitability | $${Profit + Tax + Loan Interest + Depreciation/Amortization }$$|
-| EBITDA Margin | Indication of Operational efficiency |   $$\frac{EBITDA}{Revenue} $$  
-| Top-Line | Revenue | $${-}$$ | 
-| Bottom-Line | Net Income or Profit | $${-}$$ | 
+| **Revenue**               | Total income excluding expenses | $$\text{No. Units Sold} \times \text{Cost per Unit}$$   |  
+| **Gross Profit**          | Money made before taxes         | $$\text{Revenue} - \text{All Costs}$$         |  
+| **Net Profit**            | Money made after taxes          | $$\text{Revenue} - \text{All Costs} - \text{Tax}$$   |  
+| **Gross Profit Margin**   | Indication of company efficiency| $$ \frac{\text{Revenue} - \text{Product Cost}}{\text{Revenue}} $$|  
+| **Net Profit Margin**     | Per unit profitability          | $$ \frac{\text{Net Profit}}{\text{Revenue}} $$   |  
+| **[EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)**| Overall profitability           | $$ \text{Profit} + \text{Tax} + \text{Loan Interest} + \text{Depreciation/Amortization} $$|  
+| **EBITDA Margin**        | Indication of operational efficiency | $$ \frac{\text{EBITDA}}{\text{Revenue}} $$ |  
+| **[Top-Line](https://www.investopedia.com/ask/answers/difference-between-bottom-line-and-top-line-growth/)**             | Revenue                         | $$\text{-}$$ |  
+| **[Bottom-Line](https://www.investopedia.com/ask/answers/difference-between-bottom-line-and-top-line-growth/)**          | Net Income or Profit            | $$\text{-}$$ |  
+
 
 
 ## How to increase Profits?
@@ -89,11 +92,6 @@ A company can increase its bottom line through the reduction of expenses. A comp
 - Reduce cost
 - Cheaper suppliers
 - Decrease employee pay & benefits
-
-
-
-
-
 
 
 
